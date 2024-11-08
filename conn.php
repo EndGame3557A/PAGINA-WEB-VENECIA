@@ -4,7 +4,7 @@ $username = "admin";        // Usuario de tu base de datos
 $password = "12345";        // Contraseña del usuario
 $dbname = "pizzeria_venecia";// Nombre de la base de datos
 
-$producto = "producto";
+$producto="producto";
 
 $conexion = new mysqli($host, $username, $password, $dbname);
 
